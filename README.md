@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Harry Xing - AI, robotics, UAV systems, and full-stack tools" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Zhiyuan Xing (Harry) - AI, robotics, UAV systems, and full-stack tools" width="100%" />
 </p>
 
-<h1 align="center">Harry Xing</h1>
+<h1 align="center">Zhiyuan Xing (Harry)</h1>
 
 <p align="center">
-  Student developer building practical AI, robotics, computer vision, UAV localization, and full-stack software systems.
+  Zhiyuan Xing is my real name, and Harry is my English name. I am a student developer building practical AI, robotics, computer vision, UAV localization, and full-stack software systems.
 </p>
 
 <p align="center">
@@ -15,6 +15,8 @@
 </p>
 
 ## About
+
+My name is Zhiyuan Xing, and I also go by Harry in English-speaking contexts.
 
 I like building systems that connect software with the physical world: robot perception, UAV localization, AI learning tools, automation workflows, and web apps that solve concrete problems.
 
