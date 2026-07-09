@@ -14,58 +14,13 @@
   <img alt="Focus" src="https://img.shields.io/badge/Focus-AI%20%2B%20Robotics%20%2B%20Tools-2E7D32?style=for-the-badge">
 </p>
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Ha22yX/Mother-Ship-Docking-Drone-System">Mother-Ship Docking Drone System</a></h3>
-      <p>Autonomous dual-UAV docking research platform using GPS/RTK, UWB, AprilTag vision, PX4/MAVLink, ESP32, and relative localization.</p>
-      <p>
-        <code>PX4</code> <code>MAVLink</code> <code>UWB</code> <code>AprilTag</code> <code>ESP32</code> <code>Robotics</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Ha22yX/SAT-AI-Tutor">SAT-AI-Tutor</a></h3>
-      <p>AI-powered SAT learning platform with adaptive practice, PDF ingestion, analytics, and visual explanations.</p>
-      <p>
-        <code>AI</code> <code>Education</code> <code>PDF</code> <code>Analytics</code> <code>Full Stack</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Ha22yX/onlypt-recruiting">onlypt-recruiting</a></h3>
-      <p>Flask website and admin CMS for a focused recruiting site, built around practical content and operations workflows.</p>
-      <p>
-        <code>Python</code> <code>Flask</code> <code>CMS</code> <code>Admin Dashboard</code> <code>Recruiting</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Ha22yX/Bridge-US-V2">Bridge-US-V2</a></h3>
-      <p>Multilingual community platform with posts, replies, search, AI Q&amp;A, moderation, notifications, and admin tooling.</p>
-      <p>
-        <code>Community</code> <code>AI Q&amp;A</code> <code>Moderation</code> <code>Search</code> <code>Admin</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Ha22yX/dxf-auto-shape-tool">dxf-auto-shape-tool</a></h3>
-      <p>DXF generator for surfboard vacuum table suction holes and capsule slots.</p>
-      <p>
-        <code>DXF</code> <code>CAD</code> <code>Automation</code> <code>Geometry</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Ha22yX/UWB-Project">UWB-Project</a></h3>
-      <p>UWB ranging, trilateration, ESP32-S3 firmware, visualization, and Pixhawk/MAVLink integration for UAV docking.</p>
-      <p>
-        <code>UWB</code> <code>ESP32-S3</code> <code>Trilateration</code> <code>Pixhawk</code> <code>Localization</code>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong>Selected work:</strong>
+  <a href="https://github.com/Ha22yX/Mother-Ship-Docking-Drone-System">UAV Docking</a> ·
+  <a href="https://github.com/Ha22yX/SAT-AI-Tutor">SAT-AI-Tutor</a> ·
+  <a href="https://github.com/Ha22yX/onlypt-recruiting">OnlyPT Recruiting</a> ·
+  <a href="https://github.com/Ha22yX/Bridge-US-V2">Bridge-US</a>
+</p>
 
 ## Tech Stack
 
