@@ -42,7 +42,6 @@ My strongest interests sit at the intersection of:
       <p>
         <code>PX4</code> <code>MAVLink</code> <code>UWB</code> <code>AprilTag</code> <code>ESP32</code> <code>Robotics</code>
       </p>
-      <p><a href="https://isef.rosebeg.com">Project website</a></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/Ha22yX/SAT-AI-Tutor">SAT-AI-Tutor</a></h3>
@@ -105,12 +104,24 @@ Robotics | UAV Systems | Computer Vision | AI Agents | Full-Stack Web Apps
 PX4 / MAVLink | ESP32 | UWB Localization | Flask | Automation Tools
 ```
 
-## GitHub Snapshot
+## Profile Snapshot
 
-<p align="center">
-  <img height="165" alt="Harry's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ha22yX&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha22yX&layout=compact&theme=transparent&hide_border=true" />
-</p>
+<table>
+  <tr>
+    <td width="33%">
+      <strong>Core languages</strong><br>
+      Python, C/C++, Java, TypeScript
+    </td>
+    <td width="33%">
+      <strong>Main domains</strong><br>
+      AI tools, robotics, UAV systems, web apps
+    </td>
+    <td width="33%">
+      <strong>Build style</strong><br>
+      Practical prototypes with usable interfaces
+    </td>
+  </tr>
+</table>
 
 ## Direction
 
