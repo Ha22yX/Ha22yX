@@ -5,7 +5,7 @@
 <h1 align="center">Zhiyuan Xing (Harry)</h1>
 
 <p align="center">
-  Zhiyuan Xing is my real name, and Harry is my English name. I am a student developer building practical AI, robotics, computer vision, UAV localization, and full-stack software systems.
+  Student developer building AI tools, UAV systems, robotics experiments, and full-stack products. Zhiyuan Xing is my real name; Harry is my English name.
 </p>
 
 <p align="center">
@@ -13,26 +13,6 @@
   <a href="https://isef.rosebeg.com"><img alt="UAV docking project site" src="https://img.shields.io/badge/UAV%20Docking%20Site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <img alt="Focus" src="https://img.shields.io/badge/Focus-AI%20%2B%20Robotics%20%2B%20Tools-2E7D32?style=for-the-badge">
 </p>
-
-## About
-
-My name is Zhiyuan Xing, and I also go by Harry in English-speaking contexts.
-
-I like building systems that connect software with the physical world: robot perception, UAV localization, AI learning tools, automation workflows, and web apps that solve concrete problems.
-
-My strongest interests sit at the intersection of:
-
-- AI agents, machine learning, and local-first AI tools
-- Robotics, UAV docking, relative localization, and computer vision
-- Full-stack web apps with clean user, admin, and data workflows
-- Education technology, developer tools, and practical automation
-
-## Current Focus
-
-- Multi-sensor relative localization for autonomous UAV docking
-- AI tutoring systems with document ingestion and adaptive feedback
-- Full-stack products with real admin dashboards and operational workflows
-- Small tools that remove repetitive work from real-world processes
 
 ## Featured Projects
 
@@ -89,7 +69,7 @@ My strongest interests sit at the intersection of:
 
 ## Tech Stack
 
-<p>
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
@@ -100,31 +80,3 @@ My strongest interests sit at the intersection of:
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </p>
-
-```text
-Robotics | UAV Systems | Computer Vision | AI Agents | Full-Stack Web Apps
-PX4 / MAVLink | ESP32 | UWB Localization | Flask | Automation Tools
-```
-
-## Profile Snapshot
-
-<table>
-  <tr>
-    <td width="33%">
-      <strong>Core languages</strong><br>
-      Python, C/C++, Java, TypeScript
-    </td>
-    <td width="33%">
-      <strong>Main domains</strong><br>
-      AI tools, robotics, UAV systems, web apps
-    </td>
-    <td width="33%">
-      <strong>Build style</strong><br>
-      Practical prototypes with usable interfaces
-    </td>
-  </tr>
-</table>
-
-## Direction
-
-I am exploring how AI systems can become useful in real workflows: learning support, robotics perception, media accessibility, and small tools that remove repetitive work.
