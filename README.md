@@ -16,9 +16,8 @@ apps that solve concrete problems.
 
 ## Featured Projects
 
-- [sensevoice-subtitle-generator](https://github.com/Ha22yX/sensevoice-subtitle-generator)  
-  Local AI subtitle generation for SRT/VTT captions with SenseVoice, Sherpa-ONNX,
-  and Gradio.
+- [onlypt-recruiting](https://github.com/Ha22yX/onlypt-recruiting)  
+  Flask website and admin CMS for a focused recruiting site.
 
 - [SAT-AI-Tutor](https://github.com/Ha22yX/SAT-AI-Tutor)  
   AI-powered SAT learning platform with adaptive practice, PDF ingestion,
