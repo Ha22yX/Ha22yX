@@ -1,0 +1,73 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#071019"/>
+      <stop offset="0.52" stop-color="#0D1B2A"/>
+      <stop offset="1" stop-color="#07151B"/>
+    </linearGradient>
+    <linearGradient id="line" x1="146" y1="294" x2="1038" y2="62" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4CC9F0"/>
+      <stop offset="0.5" stop-color="#80ED99"/>
+      <stop offset="1" stop-color="#F9C74F"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(224 97) rotate(35) scale(260 160)">
+      <stop stop-color="#4CC9F0" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#4CC9F0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(946 270) rotate(35) scale(300 180)">
+      <stop stop-color="#80ED99" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#80ED99" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#FFFFFF" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowA)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowB)"/>
+
+  <path d="M120 270C220 178 296 206 377 156C468 100 539 105 622 150C714 200 795 204 875 148C947 98 1019 72 1080 92" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-opacity="0.92"/>
+  <path d="M120 270C220 178 296 206 377 156C468 100 539 105 622 150C714 200 795 204 875 148C947 98 1019 72 1080 92" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-opacity="0.035"/>
+
+  <circle cx="120" cy="270" r="8" fill="#4CC9F0"/>
+  <circle cx="377" cy="156" r="8" fill="#80ED99"/>
+  <circle cx="622" cy="150" r="8" fill="#F9C74F"/>
+  <circle cx="875" cy="148" r="8" fill="#80ED99"/>
+  <circle cx="1080" cy="92" r="8" fill="#F9C74F"/>
+
+  <g opacity="0.82">
+    <rect x="92" y="76" width="94" height="94" rx="18" fill="#FFFFFF" fill-opacity="0.055" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <path d="M139 101V145" stroke="#4CC9F0" stroke-width="5" stroke-linecap="round"/>
+    <path d="M117 123H161" stroke="#80ED99" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="139" cy="123" r="34" stroke="#FFFFFF" stroke-opacity="0.38" stroke-width="2"/>
+  </g>
+
+  <text x="230" y="126" fill="#EAF2F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="0">
+    Harry Xing
+  </text>
+  <text x="232" y="172" fill="#B9C7D3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0">
+    AI • Robotics • UAV Systems • Full-Stack Tools
+  </text>
+  <text x="232" y="216" fill="#D9E7EF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="0">
+    Building practical systems where software meets the physical world.
+  </text>
+
+  <g transform="translate(232 250)">
+    <rect width="118" height="34" rx="17" fill="#4CC9F0" fill-opacity="0.13" stroke="#4CC9F0" stroke-opacity="0.35"/>
+    <text x="20" y="23" fill="#DDF7FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Python</text>
+  </g>
+  <g transform="translate(366 250)">
+    <rect width="112" height="34" rx="17" fill="#80ED99" fill-opacity="0.13" stroke="#80ED99" stroke-opacity="0.35"/>
+    <text x="20" y="23" fill="#E8FFED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">PX4 / UAV</text>
+  </g>
+  <g transform="translate(494 250)">
+    <rect width="130" height="34" rx="17" fill="#F9C74F" fill-opacity="0.13" stroke="#F9C74F" stroke-opacity="0.35"/>
+    <text x="20" y="23" fill="#FFF5D7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Computer Vision</text>
+  </g>
+  <g transform="translate(640 250)">
+    <rect width="116" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.18"/>
+    <text x="20" y="23" fill="#EEF6FB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Full Stack</text>
+  </g>
+</svg>
