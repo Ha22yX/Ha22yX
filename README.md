@@ -10,8 +10,15 @@
 
 <p align="center">
   <a href="https://github.com/Ha22yX?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://harry.rosebeg.com/"><img alt="Personal website" src="https://img.shields.io/badge/Personal%20Site-harry.rosebeg.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://isef.rosebeg.com"><img alt="UAV docking project site" src="https://img.shields.io/badge/UAV%20Docking%20Site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <img alt="Focus" src="https://img.shields.io/badge/Focus-AI%20%2B%20Robotics%20%2B%20Tools-2E7D32?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://harry.rosebeg.com/">harry.rosebeg.com</a> is my personal
+  brand and introduction website. I designed it myself to introduce who I am,
+  what I build, and the projects I care about.
 </p>
 
 <p align="center">
